@@ -116,7 +116,7 @@ console.log("Filter function");
 
 let list6 = [1, 2, 2, 10];
 
-// filters data acording to condition, if condition is true then it stores
+// filters data according to condition, if condition is true then it stores
 // that data in array
 
 let list7 = list6.filter( x => x-1 == 0);
